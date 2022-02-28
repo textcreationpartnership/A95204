@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the extraordinary thunder and lightning, which lately happened in the north as it was sent to Dublin in several letters to persons of quality : with the sad effects of the fall  of a cloud.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95204</idno>
+            <idno type="STC">Wing T2951A</idno>
+            <idno type="STC">ESTC R42941</idno>
+            <idno type="EEBO-CITATION">38875968</idno>
+            <idno type="OCLC">ocm 38875968</idno>
+            <idno type="VID">152462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2297:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the extraordinary thunder and lightning, which lately happened in the north as it was sent to Dublin in several letters to persons of quality : with the sad effects of the fall  of a cloud.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the Yeare 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published in 1680 as a broadside under title: A true and perfect relation of the extraordinary and terrible thunder and lightning which happened in the North of Ireland, June 26th, 1680.</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Storms --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152462:1"/>
+            <!-- PDF PAGE 52 -->
+            <pb facs="tcp:152462:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <p>A True RELATION Of the Extraordinary <hi>Thunder and Lightning</hi> Which lately happened in the NORTH As it was ſent to <hi>Dublin</hi> in ſeveral <hi>Letters</hi> to <hi>Perſons of Quality</hi> With the ſad Effects of the Fall of a CLOVD.</p>
+            <p>Printed in the Yeare 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:152462:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>Newtown Stewart <date>the 29<hi>th</hi> of <hi>June</hi> 1680.</date>
+                     </dateline>
+                  </opener>
+                  <p>THere has happened near this place ſo ſtrange and ſad an accident, that I think the like has been ſeldom known; On <hi>Saturday</hi> laſt about 10 of the Clock in the day, we heard much 1 hunder, which 15 miles from hence made many great breaches in a Mountain, and ſuch pours of water tell upon the places ſo broaken up, That the Flood hurried the looſened earth with it to the bottom, and ſwelled a brook which ran there (and which comes into the River by this place) ſo ſudenly and ſo high, that it carryed away all that ſtood before it; people who lived near the bank had not time to get out of their houſes, but with Goods, Houſes and all were ſwept along with it and periſhed, the beaſts that fed near it were loſt, the very fiſh were ſtiſted by the earth which the currant brought with it great quantities of Salmon, of Trouts, Lampreys (which I never ſaw here before) even the Eeles that live in mud were choked and thrown dead upon the ſhore. And I do not believe there is one fiſh alive in the River, from the Mountains to the Sea. My curioſity took me yeſterday to the place where this new kind of Deluge began, and truly I was amazed to ſee a Mountain torn in above 10 ſeveral places, and all the low ground by the River for 10 miles together covered with the Ruins, the Corn fields buried, &amp; the peo<g ref="char:EOLhyphen"/>ple proking in the mud and earth for the bodies of their Friends, &amp; of their Cattle: I cannot yet learn exactly how many have periſhed, but by the accounts that are given, there are loſt in ſeveral places 50 Souls and a<g ref="char:EOLhyphen"/>bundance of Cattle.</p>
+                  <p>SIR,<lb/>
+A Prodigious accident fell in <hi>Monter lony</hi> on <hi>Saturday</hi> the 26th of this In<g ref="char:EOLhyphen"/>ſtant <hi>June,</hi> a Thunderclap forced the bowels of a great mountain be<g ref="char:EOLhyphen"/>longing to one <hi>Gloud Hamilton,</hi> after which enſued the fall of a prodigious Cloud, which entring the Cavities of the ſaid mountain made by the Thun der, Its weight bore the greateſt part of the mountain before it, which made ſuch a deluge of puddle, that that part of it which fell into <hi>Glenally</hi>-water that runs towards <hi>Newtown-ſtewart,</hi> drowned 19 perſons in their houſes,
+<pb n="3" facs="tcp:152462:2" rendition="simple:additions"/>
+                     <!-- PDF PAGE 53 -->turned the who'e vallies for 8 or 9 miles in length that were meadows and Corn into a D<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſert of Dirt a foot thick, and hath killed all the fiſh in the River for 20 miles in length, the other hall of this Cloud ſell into the <hi>Row-water</hi> that runs through the County of <hi>Londonderry</hi> has drowned 31 perſons and forced away the <hi>Stonebridg</hi> at <hi>Limavady.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>Londonderry <date>the 30th of June 1680.</date>
+                     </dateline>
+                  </opener>
+                  <p>I Preſume you will have the following newes more at large than here I give you. On <hi>Saturday</hi> laſt happened a very great Thunder with Hail and Rain in theſe parts but eſpeciall about 16 or 20 miles from hence, in<g ref="char:EOLhyphen"/>ſomuch that it hath not only tore up a Mountain of near 200 Actes but the Cloud breaking thereon, hath carried all the ſuriace of the Earth in that compaſs into all the Rivers round about; but withall hath carried away ſeveral houſes and Families, inſomuch that of Men, Women and children already above thirty corpſe ſound, &amp; many more is believed to be loſt, Of a ſuddain the waters roſe between the Mountains 14 fathom high. In that part where the Mountain was, one Woman was leſt alive, who gave an account of the Dreadfulneſs thereof, which ſhe ſaith was as well by Hail<g ref="char:EOLhyphen"/>ſtones of an incredible bigneſs as by the Vaſt Cloud coming down at once, that ſhe by a wonderfull providence eſcap'd, and had it been in the night many hundred perſons more had been deſtroyed as well as their houſes &amp; great numbers of Cattle drowned. All fiſh for ſeveral miles up the River are deſtroyed by the blackneſs and muddyneſs, of the water which the ſur<g ref="char:EOLhyphen"/>face of that mountain made, of Salmon above 7 or 8 hundred ſound already dead on the ſhore, of Ecles and all other ſmall freſh water fiſh is finite numbers deſtroyed, that it is nor cannot be believed in th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe Rivers one fiſh is leſt alive, Tis too tedious to relate the whole matter, But he is as dreadfull to this Countrey as you can Imagine, by being much worſe than I here give you.</p>
+               </body>
+            </floatingText>
+            <pb n="4" facs="tcp:152462:3"/>
+            <!-- PDF PAGE 54 -->
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>New-Hall <date>the 28 of June 1680</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">O</seg>N <hi>Saturday</hi> laſt about 12 at noon, it began here to Thunder &amp; Rain, which continued for 3 hours inceſſantly, the River ſwelled ſuddenly and I did ſo overflow all the banks, and coming down ſo impetuouſly it brought with it an infinite deal of Timber, Sticks, Straw, and Rubbiſh, which gathering together at the ſide of our New Bridge, &amp; having no vent, it overthrew, and there is not one ſtick leſt. I underſtand ſince that the Thunder began above <hi>Doagiven,</hi> and there a Thunder bole fell upon a hill and tore it down, which mingling with th Rain, it rather fell like a great ſpout, and came tumbling upon a houſe belonging to <hi>Aveny</hi> O <hi>Cahan</hi> the Father of <hi>Shane</hi> O <hi>Cahan</hi> the Tory, and in a moment overthrew it, &amp; car<g ref="char:EOLhyphen"/>ryed all away with it, and <hi>Aveny</hi> with his wiſe and five Children &amp; ſour Friends were drowned, with all their Cow, ſheep, and Horſes, and a<g ref="char:EOLhyphen"/>mong them a Child in Cradle, which Cradle, with many other houſe<g ref="char:EOLhyphen"/>hold goods and Timber of houſes did help to choak and overthrow the Bridg. A boy told me that he ſaw the thunder bolt tall, which with great flames and flaſhes tore the ground, and all the day after none could go near the place for the ſmell of Brimſtone; he ſayes there fell alſo hairſtones of a ſtrange ſize and ſhape, ſome like pieces of Candles, ſome like great but<g ref="char:EOLhyphen"/>tons with ſharp points; within a ſew miles of that place 18 perſons were found drowned in one heap, and ſeveral about <hi>Newtown-ſtewart,</hi> But the miſchief is not yet all known. After this it is a ſmall thing to tell you all the meadows about this town are ſpoiled, and all the Corn from hence to the River mouth, and which is wonderfull about <hi>Derry</hi> and <hi>Colraine</hi> was nothing, but an ordinary ſhower at <hi>Maherae,</hi> and there abouts clear wea<g ref="char:EOLhyphen"/>ther.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
